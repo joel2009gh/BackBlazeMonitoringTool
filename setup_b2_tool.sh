@@ -41,7 +41,7 @@ sleep 2
 echo "Now you need to authorize your B2 account."
 echo "Please enter your B2 account ID and application key when prompted."
 sleep 2
-b2 authorize-account
+b2 account authorize
 sleep 2
 
 echo "Creating default configuration..."
