@@ -47,8 +47,6 @@ sleep 2
 echo "Creating default configuration..."
 python3 b2monitoring.py --first-run
 sleep 2
-echo "Lets cd into the repo"
-cd BackBlazeMonitoringtool
 echo ""
 echo "Setup complete!"
 echo "A default configuration file 'config.json' has been created."
