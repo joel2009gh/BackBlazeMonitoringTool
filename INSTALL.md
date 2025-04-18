@@ -21,8 +21,7 @@
 # !!! You can install everything at once if you run!!!:
 1. chmod +x setup_b2_tool.sh
 2. sudo ./setup_b2_tool.sh
-3. Then cd into BackBlazeMonitoringTool
-4. Edit config.json
-5. Run python3 b2monitoring.py
+3. Edit config.json
+4. Run python3 b2monitoring.py
 
 6. # ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
