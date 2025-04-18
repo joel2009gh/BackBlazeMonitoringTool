@@ -62,4 +62,4 @@ echo ""
 echo "To activate the virtual environment in the future, run:"
 echo "   source ~/b2_env/bin/activate"
 echo ""
-echo "Enjoy your B2 monitoring tool!"
+echo "^ Joel2009gh
