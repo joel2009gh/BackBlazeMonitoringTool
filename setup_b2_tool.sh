@@ -38,14 +38,6 @@ echo "Installing git..."
 sudo apt install -y git
 sleep 2
 
-echo "Cloning repository..."
-git clone https://github.com/joel2009gh/BackBlazeMonitoringTool.git
-sleep 2
-
-echo "Changing to repository directory..."
-cd BackBlazeMonitoringTool
-sleep 2
-
 echo "Now you need to authorize your B2 account."
 echo "Please enter your B2 account ID and application key when prompted."
 sleep 2
