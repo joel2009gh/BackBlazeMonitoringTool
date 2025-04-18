@@ -1,1 +1,2 @@
 # BackBlazeMonitoringTool
+# Installation: INSTALL.md
