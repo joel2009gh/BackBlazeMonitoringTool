@@ -15,6 +15,8 @@
  Solution: sudo apt install python3-venv
  3. source: command not found (when activating)
  Solution: . ~/b2_env/bin/activate
+ 4. sh: 1: cannot create current_files.txt: Permission denied
+ Solution: run script(s) with sudo
 
 # !!! You can install everything at once if you run!!!:
 1. chmod +x setup_b2_tool.sh
